@@ -31,12 +31,8 @@ Installation
     Clone the repository:
 
     bash
+    git clone https://github.com/yourusername/python-stress-test-tool.git
+    cd python-stress-test-tool
+    pip install -r requirements.txt
 
-git clone https://github.com/yourusername/python-stress-test-tool.git
-cd python-stress-test-tool
 
-Install the required dependencies:
-
-bash
-
-pip install -r requirements.txt
